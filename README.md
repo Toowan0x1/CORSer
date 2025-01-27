@@ -1,6 +1,8 @@
 # CORSer
 CORS Testing Tool
 
+![Tool Image](https://raw.githubusercontent.com/Toowan0x1/CORSer/refs/heads/master/media/Screenshot%20From%202025-01-27%2019-49-02.png)
+
 1. URL Input:
 - A text box for users to input the API URL they want to test.
 2. HTTP Method Selection:
