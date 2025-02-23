@@ -67,7 +67,27 @@ The response section displays:
 - Response headers with copy functionality
 - Formatted response body with copy functionality
 
+## Features Implemented
 
+##### 🔹 Request Customization
+- Custom Headers: Add headers like Authorization, Content-Type, etc.
+- HTTP Method Selection: Choose from GET, POST, PUT, DELETE, and more.
+- Query Parameters Support: Append dynamic query parameters to requests.
+
+##### 🔹 CORS Analysis & Debugging
+- CORS Header Inspection: Analyze Access-Control-Allow-Origin, Access-Control-Allow-Methods, and Access-Control-Allow-Headers.
+- Preflight Request Testing: Simulate OPTIONS requests to check preflight responses.
+- Error Explanation: Provide insights into common CORS issues (e.g., missing headers, mismatched origins).
+
+##### 🔹 Response Handling
+- Response Display: View response headers, status codes, and body in a structured format.
+- History Log: Save recent tests for quick re-testing and reference.
+
+##### 🔹 User Interface
+- Clean & Intuitive Design: Easy-to-use interface for testing API requests.
+- Flexible Layout Options:
+  - Horizontal View: Side-by-side request and response display.
+  - Vertical View: Stacked layout with request on top and response below.
 
 
 
@@ -77,20 +97,3 @@ The response section displays:
 
 
 ![Tool Image](https://raw.githubusercontent.com/Toowan0x1/CORSer/refs/heads/master/media/Screenshot%20From%202025-01-27%2019-49-02.png)
-
-1. URL Input:
-- A text box for users to input the API URL they want to test.
-2. HTTP Method Selection:
-- Dropdown to select methods like GET, POST, PUT, etc.
-3. Custom Headers:
-- Allow users to add headers like Authorization, Content-Type, etc.
-4. Preflight Request Option:
-- Simulate OPTIONS requests to test preflight responses.
-5. Response Display:
-- Show response headers, status codes, and body.
-6. CORS Analysis:
-- Analyze headers like Access-Control-Allow-Origin, Access-Control-Allow-Methods, and Access-Control-Allow-Headers.
-7. Error Explanation:
-- Provide insights into common CORS errors (e.g., missing headers, mismatched origins).
-8. History:
-- Save recent tests for quick re-testing.
