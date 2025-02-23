@@ -7,8 +7,8 @@ A powerful and user-friendly web application for testing CORS (Cross-Origin Reso
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cors-testing-tool.git
-   cd cors-testing-tool
+   git clone https://github.com/Toowan0x1/CORSer
+   cd CORSer
    ```
 
 2. Install dependencies:
@@ -30,18 +30,18 @@ A powerful and user-friendly web application for testing CORS (Cross-Origin Reso
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cors-testing-tool.git
-   cd cors-testing-tool
+   git clone https://github.com/Toowan0x1/CORSer
+   cd CORSer
    ```
 
 2. Build the Docker image:
    ```bash
-   docker build -t cors-testing-tool .
+   docker build -t CORSer .
    ```
 
 3. Run the container:
    ```bash
-   docker run -p 5173:5173 cors-testing-tool
+   docker run -p 5173:5173 CORSer
    ```
 
 4. Access the tool:
