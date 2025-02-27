@@ -1,7 +1,7 @@
 # CORSer
 A powerful and user-friendly web application for testing CORS (Cross-Origin Resource Sharing) configurations and API endpoints. This tool helps developers validate CORS settings, test API responses, and debug cross-origin issues with ease.
 
-![Tool Image](https://raw.githubusercontent.com/Toowan0x1/CORSer/refs/heads/master/project/media/Screenshot%20from%202025-02-27%2005-29-05.png)
+![Tool Image](https://raw.githubusercontent.com/Toowan0x1/CORSer/refs/heads/master/project/media/Screenshot%20from%202025-02-27%2005-31-29.png)
 
 ## Installation and Usage
 
@@ -98,6 +98,5 @@ The response section displays:
 
 
 
-![Tool Image](https://raw.githubusercontent.com/Toowan0x1/CORSer/refs/heads/master/media/Screenshot%20From%202025-01-27%2019-49-02.png)
+![Tool Image](https://raw.githubusercontent.com/Toowan0x1/CORSer/refs/heads/master/project/media/Screenshot%20from%202025-02-27%2005-30-21.png)
 
-![Tool Image](https://raw.githubusercontent.com/Toowan0x1/CORSer/refs/heads/master/project/media/Screenshot%20from%202025-02-27%2005-29-05.png)
